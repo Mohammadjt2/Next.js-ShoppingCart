@@ -12,7 +12,7 @@ export default function Home() {
                     <Link href='/products'>
                         <Button text=' Go to Shopping' />
                     </Link>
-                    <Link href='https://github.com/mohammadjt2/shopping-cart-next.js'>
+                    <Link href='https://github.com/Mohammadjt2/Next.js-ShoppingCart'>
                         <Button text=' Go to Source' />
                     </Link>
                 </div>
